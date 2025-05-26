@@ -1,4 +1,4 @@
-# Task: Interactive Resource Viewer (Frontend)
+# Interactive Resource Viewer (Frontend)
 
 ## Task Chosen
 
@@ -6,7 +6,7 @@ Task 1: Interactive Resource Viewer (Frontend)
 
 ## How to Run the Code
 
-### Enter the following details in terminal/powershell
+### Enter the following commands in terminal/powershell
 
 ```bash
 git clone https://github.com/rmo29/BHCG-Induction-Task.git
