@@ -4,15 +4,13 @@
 
 Task 1: Interactive Resource Viewer (Frontend)
 
----
-
 ## How to Run the Code
 
 ### Enter the following details in terminal/powershell
 
 ```bash
 git clone https://github.com/rmo29/BHCG-Induction-Task.git
-cd cpp-learning-modules
+cd BHCG-Induction-Task
 npm install
 npm start
 ```
